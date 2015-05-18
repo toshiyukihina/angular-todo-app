@@ -6,4 +6,5 @@ angular.module 'todoapp', [
   'ngResource'
   'ui.router'
   'ui.bootstrap'
+  'oc.lazyLoad'
   ]

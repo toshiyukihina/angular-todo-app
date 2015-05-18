@@ -48,3 +48,4 @@ angular.module('todoapp')
         else
           # Remove all inline style from jquery fadeIn function to reset menu state
           angular.element('#side-menu').removeAttr('style')
+          false
